@@ -1,7 +1,7 @@
-CREATE DATABASE [Ufscar2]
+CREATE DATABASE [Ufscar]
 GO
 
-USE [Ufscar2]
+USE [Ufscar]
 GO
 
 
