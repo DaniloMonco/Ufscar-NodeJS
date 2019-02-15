@@ -1,0 +1,21 @@
+{
+  "name": "movies-collector",
+  "version": "1.0.0",
+  "description": "Projeto para Ufscar EES - Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo Monco, Marcio Guilherme, Ricardo R. dos Santos",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.14.1",
+    "fastify-jwt": "^0.9.1",
+    "fastify-plugin": "^1.5.0",
+    "mssql": "^4.3.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "save": "^2.3.3",
+    "tedious": "^5.0.3"
+  }
+}
