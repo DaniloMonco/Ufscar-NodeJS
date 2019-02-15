@@ -10,12 +10,15 @@ Projeto de uma API em NODEJS para avaliação da materia Web - EES - UFSCAR. Bas
 * [API TheMovieDB] (https://api.themoviedb.org)
 
 ## Configurações padrões
-  A porta esta fixa (3000). (Para alterar acessar arquivo Server.js)
+  A porta da API esta fixa (3000). (Para alterar acessar arquivo Server.js)
+  
   As configurações do banco de dados:
         user: 'sa',
         password: 'ABC123teste',
         server: 'localhost', 
-        database: 'ufscar'     
+        database: 'ufscar'
+	
+	
   (Para alterar acessar arquivos collectorRepository.js e userRepository.js - na pasta Repository)
   Por se tratar de uma aplicação simples e de exemplo, não disponibilizamos arquivos de configurações.
   
